@@ -5,7 +5,7 @@ file contains the daily updates of Iran's Corona stats provided by Ministry of H
 ## Codebook
 Column|Description
 ------|-----------
-Persian_Date| Date of observation in Iran's official date (Hijri)
+Persian_Date| Date of observation in Iran's official date (The Solar Hijri calendar)
 Gregorian_Date| Date of observation
 Total_Cases| Total confirmed cases of COVID-19
 New_Cases| New confirmed cases of COVID-19
