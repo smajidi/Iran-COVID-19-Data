@@ -1,7 +1,14 @@
 # Data on Iran's COVID-19 (coronavirus)
 On 19 February 2020, Iran reported its first confirmed cases. The [CSV](https://github.com/smajidi/Iran-COVID-19-Data/blob/master/Iran_Dailly_Covid19_Stat.csv) 
-contains the daily updates of Iran's Corona stats provided by Ministry of Health and Medical Education. It includes stats about number of infected cases, deaths, recoveries and testings. For more detailed information about each column see the c 
-We will continue to publish up-to-date data throughout the duration of the COVID-19 pandemic.
+file contains the daily updates of Iran's Corona stats provided by Ministry of Health and Medical Education. It includes stats about number of infected cases, deaths, recoveries and testings. We will continue to publish up-to-date data throughout the duration of the COVID-19 pandemic.
+
+## Codebook
+
+## Changelog
+ - On 19 February 2020 (30 Bahman 1398) Iran's MHME started reporting of daily stats about total and new infected cases, recoveries and death. 
+ - From 26 March 2020 (7 Farvardin 1399) number of critical cases added to the daily reports.
+ - From 7 April 2020 (19 Farvardin 1399) number of total tests performed added to the daily reports.
+ - From 15 May 2020 (26 Ordibehesht 1399) number of daily inpatients and outpatients added to the daily reports.
 
 ## Update frequency
 
