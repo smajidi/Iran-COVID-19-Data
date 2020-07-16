@@ -4,7 +4,7 @@ file contains the daily updates of Iran's Corona stats provided by Ministry of H
 
 <b>Visual Dashboard:</b><br>
 - https://www.statsminute.ir/coronanegar.html
-- https://www.statsminute.ir/coronanegar-en.html (Data on this dashboard is based on the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.](https://github.com/CSSEGISandData/COVID-19)
+- https://www.statsminute.ir/coronanegar-en.html (Data on this dashboard is based on the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) too.
 
 ## Codebook
 Column|Description
