@@ -4,6 +4,7 @@ file contains the daily updates of Iran's Corona stats provided by Ministry of H
 
 <b>Visual Dashboard:</b><br>
 https://www.statsminute.ir/coronanegar.html
+https://www.statsminute.ir/coronanegar-en.html
 
 ## Codebook
 Column|Description
@@ -36,4 +37,4 @@ Critical|Number of patients wth serious condition
 
 ## Authors
 
-This data has been collected, aggregated, and documented by Saeed Majidi, Shahrzad Alem Fathi, Alireza Kadivar and Majid Pourkashani.
+This data has been collected, aggregated, and documented by Saeed Majidi, Shahrzad Jahangard, Alireza Kadivar and Majid Pourkashani.
