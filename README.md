@@ -5,10 +5,21 @@ file contains the daily updates of Iran's Corona stats provided by Ministry of H
 ## Codebook
 Column|Description
 ------|-----------
-Persian_Date| Date of observation in Iran's official date (The Solar Hijri calendar)
-Gregorian_Date| Date of observation
-Total_Cases| Total confirmed cases of COVID-19
-New_Cases| New confirmed cases of COVID-19
+Persian_Date|Date of observation in Iran's official date (The Solar Hijri calendar)
+Gregorian_Date|Date of observation
+Total_Cases|Total confirmed cases of COVID-19
+New_Cases|New confirmed cases of COVID-19
+Active_Cases|Equlas to Total_Cases - (Total_Recovered + Total_Deaths)
+Total_Recovered|Total recovered patients
+New_Recovered|New recovered patients
+Total_Deaths|Total deaths attributed to COVID-19
+New_Deaths|New deaths attributed to COVID-19
+Outpatients|Number of new outpatients
+Inpatients|Number of new inpatients
+Total_Tests|Total tests for COVID-19
+New_Tests|New tests for COVID-19
+caseTotest|Equals to (New_Cases / New_Tests)
+Critical|Number of patients wth serious condition
 
 ## Changelog
  - On 19 February 2020 (30 Bahman 1398) Iran's MHME started reporting of daily stats about total and new infected cases, recoveries and death. 
