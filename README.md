@@ -26,9 +26,9 @@ Critical|Number of patients wth serious condition
 
 ## Changelog
  - On 19 February 2020 (30 Bahman 1398) Iran's MHME started reporting of daily stats about total and new infected cases, recoveries and death. 
- - From 26 March 2020 (7 Farvardin 1399) number of critical cases added to the daily reports.
- - From 7 April 2020 (19 Farvardin 1399) number of total tests performed added to the daily reports.
- - From 15 May 2020 (26 Ordibehesht 1399) number of daily inpatients and outpatients added to the daily reports.
+ - From 26 March 2020 (7 Farvardin 1399) number of critical cases was added to the daily reports.
+ - From 7 April 2020 (19 Farvardin 1399) number of total tests performed was added to the daily reports.
+ - From 15 May 2020 (26 Ordibehesht 1399) number of daily inpatients and outpatients were added to the daily reports.
 
 ## Update frequency
 
