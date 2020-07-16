@@ -1,4 +1,4 @@
-Persian_Date,Gregorian_Date,Total_Cases,New_Cases,Active_Cases,Total_Recovered,New_Recovered,Total_Death,New_Deaths,Outpatient,Inpatient,Total_Tests,New_Tests,caseTotest,Critical
+Persian_Date,Gregorian_Date,Total_Cases,New_Cases,Active_Cases,Total_Recovered,New_Recovered,Total_Deaths,New_Deaths,Outpatients,Inpatients,Total_Tests,New_Tests,caseTotest,Critical
 98/11/29,2/18/20,2,2,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA
 98/11/30,2/19/20,3,1,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA
 98/12/01,2/20/20,5,2,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA
