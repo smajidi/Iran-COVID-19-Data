@@ -26,7 +26,7 @@ caseTotest|Equals to (New_Cases / New_Tests)
 Critical|Number of patients with serious condition
 Vacc. Dose 1|Number of injected 1st dosage of vaccination
 Vacc. Dose 2|Number of injected 2nd dosage of vaccination
-Vacc. Total Dose|Total number of injected dosage of vaccination
+Vacc. Total Dose|Total injected dosage of vaccination
 
 ## Changelog
  - On 19 February 2020 (30 Bahman 1398) Iran's MHME started reporting of daily stats about total and new infected cases, recoveries and death. 
